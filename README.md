@@ -5,5 +5,5 @@ If you don't know what ihateannoyingorange.com is, allow Steven (creator of the 
 
 The ihateannoyingorange.com website is not mine, all credit goes to Steven for creating the site. 
 
-Licence:IDRGDDW Licence (I Don't Really Give A Damn Do Whatever)
+Licence: IDRGDDW Licence (I Don't Really Give A Damn Do Whatever)
 
