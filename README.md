@@ -3,7 +3,7 @@ A (attempted) decompilation of ihateannoyingorange.com that I made when I got bo
 
 If you don't know what ihateannoyingorange.com is, allow Steven (creator of the website) to tell you what this site is all about, "Welcome new users! If you find yourself hating the annoying orange just as much as I do, then you're in luck!! This blog was designed by me to find fellow annoying orange haters :) Please stick around if that sounds like your kind of thing! I hate that fucking orange so much so your support means the world :D"
 
-The ihateannoyingorange.com website is not mine, all credit goes to Steven for creating the site. 
+The ihateannoyingorange.com website is not mine, all credit goes to Steven for creating the site.
 
 Licence: IDRGDDW Licence (I Don't Really Give A Damn Do Whatever)
 
