@@ -1,4 +1,3 @@
-README
 ihateannoyingorangewebsite
 A (attempted) decompilation of ihateannoyingorange.com that I made when I got bored. How I pretty much achieved this is that I downloaded every link I was able to get on the website (as a mhtml file) and used a mhtml to html converter for the downloaded links. If you want to modfy the site for yourself, feel free, but credit is needed.
 
